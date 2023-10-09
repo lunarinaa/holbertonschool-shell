@@ -1,0 +1,5 @@
+File Edit Options Buffers Tools Sh-Script Help
+#!/bin/bash
+grep '[A-Za-z]' /etc/ssh/sshd_config
+#!/bin/bash
+grep '[A-Za-z]' /etc/ssh/sshd_config
